@@ -29,5 +29,5 @@ This project is developed strictly for educational purposes.
 Unauthorized or malicious use of this code is strictly prohibited.
 
 ## 👤 Author
-Your Name  
+Geattam Dhanush
 Edunet-VOIS Internship
